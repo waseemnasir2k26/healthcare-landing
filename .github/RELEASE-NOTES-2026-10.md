@@ -1,0 +1,4 @@
+- healthcare-landing is a public single-page React 19 + Vite + Tailwind landing page for 'MediConnect', a French-language digital health platform concept; the whole UI lives in src/App.jsx. Deploy configs exist for Vercel and Netlify.
+- Reviewed October 2026: tree re-checked; the only commit besides release commits is the 2026-02-18 initial commit. README links (all stock Vite template references) returned HTTP 200.
+- Known gaps: README is still the stock React + Vite template text and does not describe MediConnect; no LICENSE, tests or CI; single 1,600-line component; no backend or form handler wired.
+- Release housekeeping only: package version 0.1.0 to 0.2.0, Status line, changelog and Work with SkynetLabs section. No component code changed.
